@@ -1,1 +1,1 @@
-# RAS50_Diabetes_Prediction
+# RSU50_Diabetes_Prediction
